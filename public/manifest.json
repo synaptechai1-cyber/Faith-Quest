@@ -1,9 +1,0 @@
-{
-  "name": "Faith Quest",
-  "short_name": "FaithQuest",
-  "description": "A Bible Adventure Game",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#1a0a2e",
-  "theme_color": "#f59e0b"
-}
